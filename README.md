@@ -34,5 +34,5 @@ Website link here : [Omnifood](https://omnifood-hafidz.netlify.app/)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at apiiettrecomen1@gmail.com
+If you have any feedback, please reach out to me at apiiettrecomen1@gmail.com
 
